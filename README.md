@@ -50,7 +50,7 @@ application should try avoid any blocking tasks. You can use techniques like:
 thread blocking. 
  
 JSON document example: 
- 
+``` 
 [ 
     { 
         "url": "c­and­a.com" 
@@ -59,7 +59,7 @@ JSON document example:
         "url": "toshiba.es" 
     } 
 ] 
-
+```
 ### Feedback ###
 
 What we liked: 
